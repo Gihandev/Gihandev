@@ -1,23 +1,23 @@
 
 <h1 align="center">Hi 👋, I'm Gihan Serasinghe</h1>
-<h3 align="center">IT GRADUATE | FULL STACK DEVELOPER | UI/UX DESIGNER | MOBILE APP DEVELOPER </h3>
+<h3 align="center"> FULL STACK DEVELOPER | UI/UX DESIGNER | MOBILE APP DEVELOPER | CLOUD & AI ENTHUSIAST  </h3>
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=it-21360978&label=Profile%20views&color=0e75b6&style=flat" alt="it-21360978" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Gihandev&label=Profile%20views&color=0e75b6&style=flat" alt="gihandev" /> </p>
 
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="400" height="300" />
+
 
 
 
 # 💫 About Me:
-- 🔭 I am currently working as a software developer.
-- 🌐 Web Developer Intern at Nova Tech Zone.
-- 📚 4th Year Undergraduate Student.
-- 🌱 I'm currently learning about new technologies.
-- 👯 I’m looking to collaborate on Open Source.
-- 🤔 I'm looking for help with artificial intelligence services.
-- 💬 Ask me about what you want to know.
+- 🔭 I’m currently working on an AI Project
+- 👯 I’m looking to collaborate on innovative software projects and AI applications
+- 🤝 I’m looking for help with exploring cutting-edge frameworks and optimizing system performance
+- 🌱 I’m currently learning Nest JS and AI integration
 - 😄 Pronouns: HE/HIS
-- ⚡ Fun fact: passion for learning new things
+- 💬 Ask me about software development, best coding practices
+- ⚡ Fun fact I once solved a bug that had the whole team scratching their heads
+
+
 
 <br/>
 
@@ -25,9 +25,9 @@
 <h2> 🌐 Socials:</h2>
 
 <div> <a href="https://twitter.com/SrasingheG" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gihan-serasinghe-457033264" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-<a href="https://github.com/it-21360978" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-<a href="https://www.instagram.com/gihan__sey____/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/gihan-serasinghe" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/Gihandev" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<a href="https://www.instagram.com/g_hankz.___/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 <br/>
 <br/>
 
@@ -157,54 +157,17 @@
 <br/>
 <br/>
 
-<h2> 📊 GitHub Stats:</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Gihandev&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gihandev&theme=default&hide_border=true" alt="GitHub Streak Stats">
-    </td>
-  </tr>
-</table>
-
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gihandev&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-<br/>
-<br/>
-
-<h2> 🏆 GitHub Trophies </h2>
-
-![](https://github-profile-trophy.vercel.app/?username=Gihandev&theme=flat&no-frame=true&no-bg=false&margin-w=4)
-
-<br/>
-<br/>
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="center">🔝 Statistics </h2>
 <div align="center">
-<a href="https://github.com/Gihandev">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Gihandev&theme=apprentice" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Gihandev&theme=apprentice" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Gihandev&theme=apprentice" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Gihandev&theme=algolia" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Gihandev&theme=algolia" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gihandev&theme=default&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gihandev&theme=default&hide_border=true" alt="GitHub Streak Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gihandev&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
-<br/>
-<br/>
-  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=Gihandev&theme=github-compact"/>
 
 
-<br/>
-<br/>
-<h2 align="center">✍️ Random Dev Quote</h2> 
-<div align = "center">
-  
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 </div>
 
 
